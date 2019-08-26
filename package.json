@@ -1,7 +1,7 @@
 {
-    "name": "jamstack-eventually",
+    "name": "site-fitness-coming-soon",
     "version": "0.0.1",
-    "description": "JAMstack - Blazing fast app with Eventually design by Pixelarity",
+    "description": "Site Fitness - Site de prezentare coming soon. Un produs WebsiteMarket.",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -29,13 +29,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/priv-jamstack-eventually"
+        "url": "https://github.com/creare-site/site-fitness-coming-soon"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/priv-jamstack-eventually/issues",
+        "url": "https://github.com/creare-site/site-fitness-coming-soon/issues",
         "email": "support@appseed.us"
     },
-    "author": "AppSeed <support@appseed.us> (https://appseed.us)",
+    "author": "WebsiteMarket <hello@websitemarket.ro> (https://websitemarket.ro)",
     "license": "Commercial",
     "private": false,
     "dependencies": {

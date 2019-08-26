@@ -1,45 +1,46 @@
-# [JAMstack Eventually](https://appseed.us/apps/jamstack/jamstack-eventually-pixelarity)
+# [Site Finess - Coming Soon ](https://site-fitness-coming-soon.websitemarket.ro/)
 
-Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of Eventually Pixelarity design.
-
-<br />
-
-![JAMstack Eventually - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-eventually-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## License
-
-This is a commercial application, to use it you need to buy a license. Please access [AppSeed](https://appseed.us/pricing) for more information.
+![Site Consultant Marketing - Gif nimated Intro.](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-coming-soon-intro.gif)
 
 <br />
 
-## App Links
+## Informatii produs
 
-- [Jamstack Eventually](https://jamstack-eventually.appseed.us/) - live demo
-- [Pixelarity Eventually](https://pixelarity.com/eventually) - the design provided by Pixelarity 
+- Site de prezentare - Site Consultant Marketing
+- Live [DEMO](https://site-fitness-coming-soon.websitemarket.ro)
+ 
+<br />
+
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## How to use it
+## Utilizare (pentru dezvoltatori)
 
-- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-eventually.git`
-- change directory to `priv-jamstack-eventually`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+Acesta website este o aplicatie JAMstack. Pentru detalii contactati WebsiteMarket.
+
+```
+$ git clone https://github.com/creare-site/site-fitness-coming-soon.git
+$ cd site-fitness-coming-soon
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Suport
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack Eventually](https://appseed.us/apps/jamstack/jamstack-eventually-pixelarity) - provided by **AppSeed**
+[Site Finess - Coming Soon ](https://site-fitness-coming-soon.websitemarket.ro/) un produs **WebsiteMarket**

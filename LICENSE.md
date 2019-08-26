@@ -1,14 +1,14 @@
-## Developer License
+## Licenta pentru Dezvoltatori 
 
-> Copyright (c) 2019 - present AppSeed
+> Copyright (c) 2019 - prezent WebsiteMarket
 
-This app is licensed under the **Developer License**, which means you need to buy a license to use the product for any kind of projects:
+Acest produs este protejat de drepturi de autor si pentru a utiliza codul sursa pentru orice fel de proiect este nevoie de o licenta.
 
-- Personal projects
-- Commercial projects (paying customers)
-- Hobby projects
+- Proiecte personale 
+- Proiecte comerciale (clienti platitori)
+- Proiecte hobby, eduacationale
 
-To use this product please access the [license page](https://appseed.us/pricing)
+Pentru utilizarea acestui produs accesati **WebsiteMarket**
 
 ---
-Coded by [AppSeed.us](https://appseed.us).
+Un produs [WebsiteMarket](https://WebsiteMarket.ro)
