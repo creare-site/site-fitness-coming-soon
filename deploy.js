@@ -2,9 +2,9 @@ var FtpDeploy = require('ftp-deploy');
 var ftpDeploy = new FtpDeploy();
  
 var config = {
-    user: "jamstack-elemental@jamstack-elemental.appseed.us", 
-    password: "HnbFvddccEE993NbG9986bbgFDc",                            
-    host: "ftp.appseed.us",
+    user:     "FTP_USER", 
+    password: "FTP_PASS",                            
+    host:     "FTP_HOST",
     port: 21,
     localRoot: __dirname + '/_site',
     remoteRoot: '/',

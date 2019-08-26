@@ -1,6 +1,6 @@
 # [JAMstack Eventually](https://appseed.us/apps/jamstack/jamstack-eventually-pixelarity)
 
-Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Eventually Pixelarity design.
+Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of Eventually Pixelarity design.
 
 <br />
 
