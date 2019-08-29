@@ -1,10 +1,10 @@
-# [Site Finess - Coming Soon ](https://site-fitness-coming-soon.websitemarket.ro/)
+# [Site Finess - Coming Soon](https://site-fitness-coming-soon.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site Consultant Marketing - Gif nimated Intro.](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-coming-soon-intro.gif)
+![Site Finess - Coming Soon - Gif nimated Intro.](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-coming-soon-intro.gif)
 
 <br />
 
